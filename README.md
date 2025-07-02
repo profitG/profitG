@@ -2,11 +2,11 @@
 
 I'm currently making suitdio
 
-# Suitdio -AI Logic Editor-
+### Suitdio -AI Logic Editor-
 
 please give me a feedback 😊
 
-[http](https://suitdio.com)
+[[http](https://suitdio.com)]
 
 <!--
 **profitG/profitG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
