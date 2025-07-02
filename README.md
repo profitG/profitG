@@ -6,7 +6,7 @@ I'm currently making suitdio
 
 please give me a feedback 😊
 
-[[http](https://suitdio.com)]
+[(https://suitdio.com)] https://suitdio.com
 
 <!--
 **profitG/profitG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
